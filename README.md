@@ -14,8 +14,6 @@
 <div>
   <img align="center" alt="dark-javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="dark-python" src="https://img.shields.io/badge/python-04bbff?style=for-the-badge&logo=Python&logoColor=01232f">
-  <img align="center" alt="dark-npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img align="center" alt="dark-yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
   <img align="center" alt="dark-node" src="https://img.shields.io/badge/node.js-0e1817?style=for-the-badge&logo=node.js&logoColor=green">
   
 ## Editing Development Paths ✍
