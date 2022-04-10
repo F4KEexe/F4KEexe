@@ -20,7 +20,7 @@
 
 <div>
   <img align="center" alt="dark-visualstudio" src="https://img.shields.io/badge/Visual%20Studio-A0eee8.svg?style=for-the-badge&logo=visual-studio&logoColor=02736b">
-  <img align="center" alt="dark-SublimeText" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=SublimeText&logoColor=white">
+  <img align="center" alt="dark-SublimeText" src="https://img.shields.io/badge/Sublime-text%23F05033.svg?style=for-the-badge&logo=SublimeText&logoColor=white">
   <img align="center" alt="dark-git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="dark-github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
