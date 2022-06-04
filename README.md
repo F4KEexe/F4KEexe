@@ -54,7 +54,7 @@ Iremos avisar aqui quando cada ferramentas for atualizada!
 
 <p align="center" >
   <h2 align="center">📧 Groups</h2>
-<a href="https://wa.me/+5517996792144c" alt="WhatsApp">
+<a href="https://wa.me/+5517996792144" alt="WhatsApp">
   <img src = "https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" /> </a>
 
 <a href="http://t.me/F4KEexe" alt="Telegram">
