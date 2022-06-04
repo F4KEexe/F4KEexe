@@ -3,7 +3,7 @@
 
 <p align="center" ><img alt="F4KEexe" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
-<h1 align="center">/MR Profile (BETA)</h1>
+<h1 align="center">Murilo Profile </h1>
 <p align="center">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Kiny-Kiny/Kiny-Painel">
   <img alt="Latest version" src="https://img.shields.io/github/v/release/Kiny-Kiny/Kiny-Painel.svg" alt="Latest version">
@@ -21,6 +21,8 @@
   <a href="https://github.com/F4KEexe">Credits</a> •
   <a href="https://github.com/F4KEexe">Author</a> •
   <a href="http://instagram.com/murilo.1p/">Instagram</a>
+  <a href="https://discord.gg/pE7w8vbqGd">Discord</a>
+  <a href="https://t.me/blazecrash">Telegram</a>
 </p>
 
 <h3><p align="center">Version: 1.0</p></h3>
