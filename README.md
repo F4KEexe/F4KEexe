@@ -20,8 +20,8 @@
   <a href="https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w">Youtube Channel</a> •
   <a href="https://github.com/F4KEexe">Credits</a> •
   <a href="https://github.com/F4KEexe">Author</a> •
-  <a href="http://instagram.com/murilo.1p/">Instagram</a>
-  <a href="https://discord.gg/pE7w8vbqGd">Discord</a>
+  <a href="http://instagram.com/murilo.1p/">Instagram</a>•
+  <a href="https://discord.gg/pE7w8vbqGd">Discord</a>•
   <a href="https://t.me/blazecrash">Telegram</a>
 </p>
 
