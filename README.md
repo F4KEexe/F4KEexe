@@ -27,10 +27,12 @@
  
 <h2 align="center">📆  Features</h2>
 
-Todos os que estão marcados já se encontram presente no **Meu pERFIL** funcionando. 
+Todos os que estão marcados já se encontram presente no **Meu Perfil** funcionando. 
 Os que não estão, é porque ainda estão em desenvolvimento.
 
 - [x] Discord Token Generator
+- [x] Discord Token Checker
+- [x] Discord DJ Bot
 - [x] Discord Grabber
 - [x] Discord Welcome
 - [x] Discord ClearDM
@@ -39,18 +41,14 @@ Os que não estão, é porque ainda estão em desenvolvimento.
 - [x] YouTube Viewns
 - [x] Blaze Bot
 - [x] Smash Bot
-- [x] 
+- [x] Email spam
+- [x] Whattsapp report
 
 
 <h2 align="center">🖥 Install</h2>
 
 Estamos sempre atualizando a ferramenta. Por conta disso, as vezes consultas podem ficar **offline** temporariamente. 
 Iremos avisar aqui quando cada ferramentas for atualizada!
-
-
-<p align="center" >
-  <h2 align="center">🚀 Running</h2>
-</p>
 
 <p align="center" >
   <h2 align="center">📧 Groups</h2>
