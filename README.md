@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/F4KEexe?tab=repositories">Features</a> •
-  <a href="https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w">Youtube Channel</a> •
+  <a href="https://www.youtube.com/channel/UCfcin12eWxdkEIpUD4--Omw">Youtube Channel</a> •
   <a href="https://github.com/F4KEexe">Credits</a> •
   <a href="https://github.com/F4KEexe">Author</a> •
   <a href="http://instagram.com/murilo.1p/">Instagram</a> •
