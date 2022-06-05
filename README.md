@@ -64,8 +64,10 @@ Iremos avisar aqui quando cada ferramentas for atualizada!
 
 | Autor          | Ajuda                                                                  |
 | -------------- |:-------------:                                                         |
-| F4KEexe        | Dev total                                                              |
-| Moscou         | Ideias                                                                 |
+| /mr            | Dev total                                                              |
+| Moscou         | Divulgação                                                             |
+| syzen7         | SelfBot                                                                |
+| oqsz           | Cartão Clonado                                                         |
 
 <div align="center">
   <h2>👤 Perfis:</h2>
