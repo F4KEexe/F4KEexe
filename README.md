@@ -81,6 +81,7 @@ Iremos avisar aqui quando cada ferramentas for atualizada!
  
  Paypal / pix  para quem quiser contribuir e ajudar o meu perfil a se manter ativo com varios projetos pra vocês !
  ```
+
   Paypal : imerilo359@gmail.com
   PIX : +55 1799679-2144
   
